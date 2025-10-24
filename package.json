@@ -1,0 +1,12 @@
+{
+  "name": "cypress-eight25",
+  "version": "1.0.0",
+  "description": "Cypress tests for eight25media.com",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
